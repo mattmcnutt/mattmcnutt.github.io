@@ -137,18 +137,18 @@ people:
       pic: sipo.jpg
       role: Groomsman
       description: Matt's College Friend
-    - name: Carl Cassler
-      pic: carl.jpg
-      role: Groomsman
-      description: Matt's Childhood Friend
+    #- name: Carl Cassler
+    #  pic: carl.jpg
+    #  role: Groomsman
+    #  description: Matt's Childhood Friend
     - name: George Martinez
       pic: george.jpg
       role: Groomsman
       description: Matt's College Friend
-    - name: Tony Sek
-      pic: tony.jpg
-      role: Groomsman
-      description: Matt's Deployment Friend
+    #- name: Tony Sek
+    #  pic: tony.jpg
+    #  role: Groomsman
+    #  description: Matt's Deployment Friend
 
 faq:
   wp:
