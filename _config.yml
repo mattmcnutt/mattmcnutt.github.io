@@ -46,6 +46,12 @@ locations:
     address2: Woodland Park, CO 80863
     coordinates: 100+Shining+Mountain+Ln,+Woodland+Park,+CO+80863
     google_maps_url: https://www.google.com/maps/place/Shining+Mountain+Golf+Club/@39.020417,-105.0716907,17z/data=!3m1!4b1!4m5!3m4!1s0x876b55193152768d:0xbddcbb8b603b2c31!8m2!3d39.020417!4d-105.069502
+  eagle_fire: &eagle_fire_location
+    location_name: Eagle Fire Lodge and Cabins
+    address1: 777 US-24, Woodland Park, CO 80863
+    address2: Woodland Park, CO 80863
+    coordinates: 777+US-24,+Woodland+Park,+CO+80863
+    google_maps_url: https://www.google.com/maps/place/Eagle+Fire+Lodge+%26+Cabins/@38.987347,-105.0493317,17z/data=!3m1!4b1!4m5!3m4!1s0x8714aaba57010571:0xefe934e9a896c992!8m2!3d38.987347!4d-105.047143
 
 hotels:
   wp:
@@ -55,6 +61,12 @@ hotels:
       rate: $145/night
       description: Includes continental breakfast each morning, Closest to the venu, shuttle will be provided to venue
       <<: *country_lodge_location
+    - name: Eagle Fire Lodge and Cabins
+      phone: +1-719-687-5700
+      reserve_url: https://www.eaglefirelodge.com/
+      rate: $95/night
+      description: Includes continental breakfast each morning, Closest to the venu, shuttle will be provided to venue
+      <<: *eagle_fire_location
     - name: Comfort Inn
       phone: +1-719-685-5455
       reserve_url: https://www.choicehotels.com/colorado/manitou-springs/comfort-inn-hotels/co196?source=gyxt
@@ -170,7 +182,7 @@ faq:
         Yes! Get in touch with us ASAP, so we can make sure we keep any [insert allergen here] away from you!
     - question: Should I rent a car?
       answer: |
-        Our recommendation is yes. If you choose to stay at the Country Lodge transportation will be provided to the wedding site. However if you are staying anywhere else or want some wheels to see what Colorado has to offer than we suggest a rental car as other options are limited.
+        Our recommendation is yes. If you choose to stay at the Country Lodge or Eagle Fire Lodge and Cabins transportation will be provided to the wedding site. However if you are staying anywhere else or want some wheels to see what Colorado has to offer than we suggest a rental car as other options are limited.
         Uber and Lyft will be limited in and around the Wedding venue.
     - question: You decided to have your wedding XXX(X?) miles away and I cant find a babysitter for 3 days.  Can I bring kids to the wedding?
       answer: |
@@ -181,25 +193,29 @@ guide:
   wp:
     explore:
       - title: Olympic Training Center
-        description:
+        description: The tour starts with an inspirational 12-minute film and then a 45-minute outdoor walking tour of the training complex, including the weightlifting and wrestling facilities, the Aquatics Center and the Sport Center Gymnasiums. Visitors can then explore the U.S. Olympic Hall of Fame Rotunda, shop at the U.S. Olympic Store and check out the ever-changing art exhibitions found throughout the Olympic Visitor Center.
       - title: Seven Falls
-        description:
+        description: Bask in the majesty of Seven Falls, a magnificent series of cascading waterfalls located in a 1,400-foot-wall box canyon, and  explore everything else the new Seven Falls has to offer. From delectable new dining options—including the exquisite new Restaurant 1858, gift shops, walking and hiking trails, the optional Broadmoor Soaring Adventure—a thrilling exploration above Seven Falls, that includes hiking, following rope bridges, and culminating inside Seven Falls Park.
       - title: Cheyenne Mountain Zoo
-        description:
+        description: A beautiful zoo with over 30 endangered species to explore, all while over looking Colorado Springs.
       - title: Old Colorado City
-        description:
+        description: Visit the historical old Colorado city with dozens of shops and restaurants as well as various cultural events in the park!
       - title: The Incline
-        description:
+        description: Hike a mile straight up the beautiful rocky mountains at the base of Pikes Peak. the view is worth the trip! Take the Bar trail down for a full hiking adventure.
       - title: Ride the Cog Railway
-        description:
+        description: Take the historic Cog up Pikes peak and enjoy the majestic beauty of Colorado.
       - title: Cave of the Winds
-        description:
+        description: Out door fun for all, enjoy tour caves discovered in 1881 or take part in the soaring adventures!
       - title: Tour the Garden of the Gods
-        description:
+        description: Drive through the landscapes and enjoy hiking trails throughout the amazing rock formations. Stop and the Vistors center or Garden of the Gods trading post for information, shopping and food.
       - title: Historic Downtown Manitou Springs
-        description:
+        description: Enjoy the day strolling beautiful and historic Manitou Springs with tons of eclectic shops and restaurants there is plenty of history to explore.
       - title: Pikes Peak Highway
-        description:
+        description: With an altitude of 14,115 feet above sea level, Pikes Peak forms a maginificent visual backdrop for Colorado Springs, Woodland Park, Fort Carson, the U.S. Air Force Academy, Garden of the Gods, Cripple Creek and many other regional cities and attractions.
+      - title: Manitou Cliff Dwellings
+        description: Discover hostory in the Native American cliff dwellings.
+      - title: Cripple Creek
+        description: Discover a true mining town. Casinos and fun for all!
     food:
       - title:
         description:
