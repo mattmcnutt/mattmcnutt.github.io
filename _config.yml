@@ -52,7 +52,7 @@ hotels:
     - name: Country Lodge
       phone: +1-719-687-6277
       reserve_url: http://www.woodlandcountrylodge.com/
-      rate: $84/night
+      rate: $145/night
       description: Includes continental breakfast each morning, Closest to the venu, shuttle will be provided to venue
       <<: *country_lodge_location
     - name: Comfort Inn
