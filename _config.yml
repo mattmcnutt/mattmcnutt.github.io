@@ -107,10 +107,10 @@ people:
     - pic: hoang.jpg
       name: Helena Clemmensen
       title: Flower Girl
-    - pic: isabelle.jpg
+    - pic: isabelle.JPG
       name: Isabelle McNutt
       title: Flower Girl
-    - pic: elizabeth.jpg
+    - pic: elizabeth.JPG
       name: Elizabeth McNutt
       title: Junior Bridesmaid
   her_side:
@@ -119,7 +119,7 @@ people:
       role: Maid of Honor
       description: Katrina's Sister
     - name: Sara Svatos
-      pic: sara.jpg
+      pic: sara.JPG
       role: Bridesmaid
       description: Katrina's Childhood Friend
     - name: Jessica Theis
@@ -131,7 +131,7 @@ people:
       role: Bridesmaid
       description: Katrina's College Roommate
     - name: Chelsea Baker
-      pic: chelsea.jpg
+      pic: chelsea.JPG
       role: Bridesmaid
       description: Katrina's Army Roommate
   his_side:
