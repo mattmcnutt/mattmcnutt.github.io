@@ -17,6 +17,7 @@ billboard_class: billboard-red-stairs
 
        <div class="row">
           <address class="col-xs-8 text-left">
+            {% include google_map.html link=event.google_maps_url coordinates=event.coordinates size="555x305" %}
             <strong>{{ event.location_name }}</strong><br>
             <a href="{{ event.google_maps_url }}">
               {{ event.address1 }}<br>
