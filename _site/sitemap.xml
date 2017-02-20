@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://www.mcnuttsabouteachother.com/celebrations/</loc>
+<loc>http://0.0.0.0:4000/celebrations/</loc>
 </url>
 <url>
-<loc>http://www.mcnuttsabouteachother.com/details/</loc>
+<loc>http://0.0.0.0:4000/details/</loc>
 </url>
 <url>
-<loc>http://www.mcnuttsabouteachother.com/etc/</loc>
+<loc>http://0.0.0.0:4000/etc/</loc>
 </url>
 <url>
-<loc>http://www.mcnuttsabouteachother.com/faq/</loc>
+<loc>http://0.0.0.0:4000/faq/</loc>
 </url>
 <url>
-<loc>http://www.mcnuttsabouteachother.com/guide/</loc>
+<loc>http://0.0.0.0:4000/guide/</loc>
 </url>
 <url>
-<loc>http://www.mcnuttsabouteachother.com/</loc>
+<loc>http://0.0.0.0:4000/</loc>
 </url>
 <url>
-<loc>http://www.mcnuttsabouteachother.com/people/</loc>
+<loc>http://0.0.0.0:4000/people/</loc>
 </url>
 </urlset>
