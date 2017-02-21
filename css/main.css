@@ -497,6 +497,11 @@ dd {
   background-image: url(../img/river-seattle.jpg);
 }
 
+.billboard-umbrella-beach {
+  background-position: center center;
+  background-image: url(../img/umbrella-beach.jpg);
+}
+
 @media(min-width:767px) {
   .billboard-wall {
     background-position: center -170px;
