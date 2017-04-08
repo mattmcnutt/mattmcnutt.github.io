@@ -15,8 +15,6 @@ highlighter: rouge
 encoding: bom|utf-8
 
 # Possible values
-# `chi` - Chicago
-# `lbc` - Long Beach
 # 'cos' - Colorado Springs, CO
 # 'wp' - Woodland Park, CO
 context: wp
@@ -82,6 +80,13 @@ hotels:
 
 events:
   wp:
+    - name: Welcome Party
+      date: Friday, June 30, 2017
+      time: 4pmm
+      attire: Casual
+      description: A casual gathering to get to know each other before the big day.
+      transportation:
+      <<: *country_lodge_location
     - name: Wedding
       date: Saturday, July 1, 2017
       time: 4:00 PM
@@ -98,14 +103,6 @@ events:
       transportation: Self-parking will be available
       shuttle: Transportation will also be provided between Country Lodge, Eagle Fire Lodge and Venue
       <<: *wedding_location
-    # - name: Mehndi Night
-    #   date: Thursday, May 26, 2016
-    #   time: 7pm
-    #   attire: Casual
-    #   description: A casual family gathering where henna is applied in intricate designs to the hands and feet of the bride and her female guests. Meant as one of many ritual adornments for the Hindu bride, it is said that the darker the henna turns out, the greater the love the bride has for her groom.  Mehndi artists also hide the groom’s name or initials into the bride’s henna design and it is her job to find them before the wedding. Traditionally, the bride is not allowed to work in her husband’s house until after the mehndi has completely faded. Further, with their hands covered in henna paste, the women of the party are unable to cook or serve during the Mehndi celebration, so the men are invited to feed and serve the women.
-    #   transportation:
-    #   <<: *vashi_location
-
 
 people:
   families:
@@ -190,7 +187,6 @@ faq:
     - question: You decided to have your wedding XXX(X?) miles away and I cant find a babysitter for 3 days.  Can I bring kids to the wedding?
       answer: |
         Yes! We will be supplying complimentary babysitting for the ceremony and reception at the venue location.  The little ones can hangout with you or the other kiddos and caretaker for as much or as little as you like.  Now you don’t have that excuse not to come.
-  lbc: false
 
 guide:
   wp:
@@ -250,8 +246,6 @@ guide:
         description:
       - title:
         description:
-
-  lbc: false
 
 google:
   key: AIzaSyCn2Z9McwWAC-i_7FE0-ug5lN1M57gb0xo
