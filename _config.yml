@@ -82,7 +82,7 @@ events:
   wp:
     - name: Welcome Party
       date: Friday, June 30, 2017
-      time: 4pmm
+      time: 4:00 PM
       attire: Casual
       description: A casual gathering to get to know each other before the big day.
       transportation:
