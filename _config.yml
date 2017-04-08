@@ -109,12 +109,12 @@ events:
 
 people:
   families:
-    - pic: hoang.jpg
+    - pic: berendts.jpg
       name: The Berendts
-      people: Katrina, April, Steven, Betty
-    - pic: hoang.jpg
+      people: Steven and Betty
+    - pic: mcnutts.jpg
       name: The McNutts
-      people: Matthew, Robert, Angus, Jenny
+      people: Angus and Jenny
   kids:
     - pic: charis.jpg
       name: Charis Clemmensen
@@ -159,7 +159,7 @@ people:
       role: Groomsman
       description: Matt's College Friend
     - name: Craig Jensen
-      pic: hoang.jpg
+      pic: craig.jpg
       role: Groomsman
       description: Matt's College Friend
     - name: George Martinez
